@@ -1,0 +1,17 @@
+# Arquivos obtidos ou gerados durante o uso
+/firmwares/
+/logs/
+/backups/
+*.sgo
+*.bin
+*.log
+*.tmp
+*.part
+*.bak
+
+# Arquivos locais do Windows e de editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

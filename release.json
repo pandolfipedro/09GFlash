@@ -1,0 +1,15 @@
+{
+  "product": "09G Flash",
+  "product_version": "1.0.0",
+  "build_date": "2026-11-07",
+  "packaged_date": "2026-11-09",
+  "platform": "windows",
+  "architecture": "x86",
+  "distribution": "compiled-application-only",
+  "executable": "09GFlash.exe",
+  "size_bytes": 16103427,
+  "sha256": "6f1c68a4c316173557ab18472af1d61b7b5b6b91512e6411035730228f012471",
+  "catalog_snapshot_date": "2026-11-07",
+  "firmwares_included": false,
+  "source_code_included": false
+}
